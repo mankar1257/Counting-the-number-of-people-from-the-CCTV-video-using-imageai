@@ -1,4 +1,4 @@
-# Counting-the-number-of-people-from-the-CCTV-video-using-image-ai-
+# Counting-the-number-of-people-from-the-CCTV-video-using-imageai-
 This is  demonstration of use of imageai for people counting  
 
 we are using a cctv video of a supermarket for as a surce for counting the number of people.
